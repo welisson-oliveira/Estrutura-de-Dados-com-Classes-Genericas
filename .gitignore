@@ -8,5 +8,5 @@ WebContent/
 *.orig
 /bin/
 EstruturaDeDadosComClassesGenericas/.idea/*/**
-EstruturaDeDadosComClassesGenericas/*.iml
 EstruturaDeDadosComClassesGenericas/out/*/**
+EstruturaDeDadosComClassesGenericas/*.iml
