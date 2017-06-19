@@ -1,0 +1,12 @@
+target/
+.classpath
+.project
+.settings
+.metadata
+scm.cms.log
+WebContent/
+*.orig
+/bin/
+/Estrutura-de-Dados-com-Classes-Genericas/.idea
+*.iml
+/Estrutura-de-Dados-com-Classes-Genericas/out
