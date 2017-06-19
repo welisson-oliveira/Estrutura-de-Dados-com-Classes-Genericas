@@ -7,6 +7,6 @@ scm.cms.log
 WebContent/
 *.orig
 /bin/
-Estrutura-de-Dados-com-Classes-Genericas/.idea/
+EstruturaDeDadosComClassesGenericas/.idea/*/**
 *.iml
 Estrutura-de-Dados-com-Classes-Genericas/out/
